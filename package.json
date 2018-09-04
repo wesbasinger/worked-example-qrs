@@ -1,0 +1,25 @@
+{
+  "name": "worked-example-qrs",
+  "version": "0.1.0",
+  "description": "Takes a folder of imgs and creates QRS for them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesbasinger/worked-example-qrs.git"
+  },
+  "keywords": [
+    "QR"
+  ],
+  "author": "Wes Basinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesbasinger/worked-example-qrs/issues"
+  },
+  "homepage": "https://github.com/wesbasinger/worked-example-qrs#readme",
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  }
+}
