@@ -5,7 +5,7 @@ const qr = require("qr-image");
 
 const GITHUB_STEM = "https://raw.githubusercontent.com/wesbasinger/worked-example-qrs/master/";
 
-const IMG_DIR = "angle-relationships";
+const IMG_DIR = "dilations";
 
 const FULL_DIR = path.join(__dirname, IMG_DIR)
 
